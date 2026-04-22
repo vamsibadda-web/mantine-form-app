@@ -1,1 +1,1 @@
-# mantine-form-app
+# typescript-app
