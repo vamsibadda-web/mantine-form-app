@@ -1,4 +1,4 @@
-'use client';
+
 
 import { TextInput, PasswordInput, Button, Paper, Title } from '@mantine/core';
 import { useForm } from '@mantine/form';
